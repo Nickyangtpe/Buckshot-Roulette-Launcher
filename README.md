@@ -1,4 +1,4 @@
-## Buckshot Roulette Launcher - 介紹
+# Buckshot Roulette Launcher - 介紹
 歡迎使用`Buckshot Roulette Launcher`，這是一款由一位熱愛遊戲的小小玩家所精心製作的遊戲啟動器。這個啟動器的主要特色是提供**免費**的遊戲內容，讓玩家能夠輕鬆體驗遊戲的樂趣。
 
 ## 安全性保證
