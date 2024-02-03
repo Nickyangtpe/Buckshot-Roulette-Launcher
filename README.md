@@ -1,9 +1,4 @@
 # Buckshot Roulette Launcher - 啟動器說明文件
-
-
-
-## 製作狀態
-`🟢`等待更新
 ## 介紹
 歡迎使用`Buckshot Roulette Launcher`，這是一款由一位熱愛遊戲的小小玩家所精心製作的遊戲啟動器。這個啟動器的主要特色是提供**免費**的遊戲內容，讓玩家能夠輕鬆體驗遊戲的樂趣。
 
@@ -16,3 +11,5 @@
 我們明確宣告，`Buckshot Roulette Launcher`僅為一款遊戲啟動器，而是第三方啟動器。如果遊戲官方不希望我們繼續在此宣傳，我們將尊重其意願，**隨時停止相關活動**。我們致力於與遊戲官方保持良好的合作關係，確保遊戲社區的健康發展。
 # 下載
 <a href="https://github.com/Nickyangtpe/Buckshot-Roulette-Launcher/releases"><img src="https://img.shields.io/static/v1?label=download&message=latest&color=12c970&logo=docusign&logoColor=white" alt="" /></a>
+# 製作狀態
+`🟢`等待更新
