@@ -7,7 +7,7 @@
 此外，`Buckshot Roulette Launcher`設計的初衷是**簡化操作**，讓初學者也能輕鬆上手。我們希望透過這個啟動器，讓更多人能夠輕鬆參與遊戲，無論是新手還是有經驗的玩家。
 
 ## 版權聲明
-我們明確宣告，`Buckshot Roulette Launcher`僅為一款遊戲啟動器，而是第三方啟動器。如果遊戲官方不希望我們繼續在此宣傳，我們將尊重其意願，**隨時停止相關活動**。我們致力於與遊戲官方保持良好的合作關係，確保遊戲社區的健康發展。
+我們明確宣告，`Buckshot Roulette Launcher`是第三方啟動器。如果遊戲官方不希望我們繼續在此宣傳，我們將尊重其意願，**隨時停止相關活動**。我們致力於與遊戲官方保持良好的合作關係，確保遊戲社區的健康發展。
 # 下載
 <a href="https://github.com/Nickyangtpe/Buckshot-Roulette-Launcher/releases"><img src="https://img.shields.io/static/v1?label=download&message=latest&color=12c970&logo=docusign&logoColor=white" alt="" /></a>
 ## 製作狀態
