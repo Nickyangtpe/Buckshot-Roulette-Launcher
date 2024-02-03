@@ -2,7 +2,7 @@
 ## 製作狀態
 🟢等待更新
 ## 介紹
-歡迎使用‵Buckshot Roulette Launcher‵，這是一款由一位熱愛遊戲的小小玩家所精心製作的遊戲啟動器。這個啟動器的主要特色是提供免費的遊戲內容，讓玩家能夠輕鬆體驗遊戲的樂趣。
+歡迎使用`Buckshot Roulette Launcher`，這是一款由一位熱愛遊戲的小小玩家所精心製作的遊戲啟動器。這個啟動器的主要特色是提供免費的遊戲內容，讓玩家能夠輕鬆體驗遊戲的樂趣。
 
 ## 安全性保證
 我們重視遊戲社區的安全性，因此特別強調Buckshot Roulette Launcher的安全性。這個啟動器的[檔案本體](https://github.com/Nickyangtpe/Buckshot-Roulette-Launcher/releases/download/%E9%81%8A%E6%88%B2%E6%9C%AC%E9%AB%94%28%E9%9D%9E%E5%95%9F%E5%8B%95%E5%99%A8%29/Buckshot.Roulette.exe)完全來自官方渠道，並且經過嚴格的檢測，確保不存在任何安全問題。我們致力於提供一個安全可靠的平台，使玩家可以無憂地享受遊戲。
