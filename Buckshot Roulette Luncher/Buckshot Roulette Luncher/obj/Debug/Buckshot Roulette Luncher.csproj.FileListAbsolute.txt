@@ -1,0 +1,10 @@
+D:\下載\BUCKSHOT.ROULETTE.v1.1 (1)\BUCKSHOT.ROULETTE.v1.1\Game\Luncher\Buckshot Roulette Luncher\Buckshot Roulette Luncher\obj\Debug\Buckshot Roulette Luncher.csproj.AssemblyReference.cache
+D:\下載\BUCKSHOT.ROULETTE.v1.1 (1)\BUCKSHOT.ROULETTE.v1.1\Game\Luncher\Buckshot Roulette Luncher\Buckshot Roulette Luncher\obj\Debug\Buckshot_Roulette_Luncher.Form1.resources
+D:\下載\BUCKSHOT.ROULETTE.v1.1 (1)\BUCKSHOT.ROULETTE.v1.1\Game\Luncher\Buckshot Roulette Luncher\Buckshot Roulette Luncher\obj\Debug\Buckshot_Roulette_Luncher.Properties.Resources.resources
+D:\下載\BUCKSHOT.ROULETTE.v1.1 (1)\BUCKSHOT.ROULETTE.v1.1\Game\Luncher\Buckshot Roulette Luncher\Buckshot Roulette Luncher\obj\Debug\Buckshot Roulette Luncher.csproj.GenerateResource.cache
+D:\下載\BUCKSHOT.ROULETTE.v1.1 (1)\BUCKSHOT.ROULETTE.v1.1\Game\Luncher\Buckshot Roulette Luncher\Buckshot Roulette Luncher\obj\Debug\Buckshot Roulette Luncher.csproj.CoreCompileInputs.cache
+D:\下載\BUCKSHOT.ROULETTE.v1.1 (1)\BUCKSHOT.ROULETTE.v1.1\Game\Luncher\Buckshot Roulette Luncher\Buckshot Roulette Luncher\bin\Debug\Buckshot Roulette Launcher.exe.config
+D:\下載\BUCKSHOT.ROULETTE.v1.1 (1)\BUCKSHOT.ROULETTE.v1.1\Game\Luncher\Buckshot Roulette Luncher\Buckshot Roulette Luncher\bin\Debug\Buckshot Roulette Launcher.exe
+D:\下載\BUCKSHOT.ROULETTE.v1.1 (1)\BUCKSHOT.ROULETTE.v1.1\Game\Luncher\Buckshot Roulette Luncher\Buckshot Roulette Luncher\bin\Debug\Buckshot Roulette Launcher.pdb
+D:\下載\BUCKSHOT.ROULETTE.v1.1 (1)\BUCKSHOT.ROULETTE.v1.1\Game\Luncher\Buckshot Roulette Luncher\Buckshot Roulette Luncher\obj\Debug\Buckshot Roulette Launcher.exe
+D:\下載\BUCKSHOT.ROULETTE.v1.1 (1)\BUCKSHOT.ROULETTE.v1.1\Game\Luncher\Buckshot Roulette Luncher\Buckshot Roulette Luncher\obj\Debug\Buckshot Roulette Launcher.pdb
